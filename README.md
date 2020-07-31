@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://i.ibb.co/F3Lc6S7/beach-logo-design-vector-template-56473-138.jpg">
 </p>
-*This PHP script for the monitor of the accumulation of funds for a joint trip.
+* This PHP script for the monitor of the accumulation of funds for a joint trip.
 
 
 

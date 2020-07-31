@@ -22,7 +22,7 @@ This system is not safe; it lacks any checks during data processing. This sample
 Screenshots
 ------------
 <p align="center">
-    <img src="https://i.ibb.co/PmYjQCN/image.png">
+    <img src="https://i.ibb.co/D8DvGHJ/image.png">
 </p>
 <p align="center">
     <img src="https://i.ibb.co/3mRJzkb/image.png">

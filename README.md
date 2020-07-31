@@ -1,9 +1,8 @@
 # myfriend-travel
-This PHP script for the monitor of the accumulation of funds for a joint trip.
-
 <p align="center">
     <img src="https://i.ibb.co/F3Lc6S7/beach-logo-design-vector-template-56473-138.jpg">
 </p>
+This PHP script for the monitor of the accumulation of funds for a joint trip.
 
 Привет мой юнный друг эта система специально была разработанна для помощи в сборе средст для путешестний большой компанией, а так же этот инструмент может быть не плохим мотиватором ведь с его помощью можно смотреть прогресс всех участников поездки в реальном времени. Надеюсь мои старания не пропадут даром, твой Dev. друг!
 .

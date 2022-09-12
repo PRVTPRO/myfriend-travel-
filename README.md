@@ -1,4 +1,4 @@
-# myfriend-travel
+# myfriend-travel 2013 year (1 day)
 This PHP script for the monitor of the accumulation of funds for a joint trip.
 <p align="center">
     <img src="https://i.ibb.co/F3Lc6S7/beach-logo-design-vector-template-56473-138.jpg">

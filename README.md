@@ -7,7 +7,7 @@ This PHP script for the monitor of the accumulation of funds for a joint trip.
 
 
 
-Привет мой юнный друг эта система специально была разработанна для помощи в сборе средст для путешестний большой компанией, а так же этот инструмент может быть не плохим мотиватором ведь с его помощью можно смотреть прогресс всех участников поездки в реальном времени. Надеюсь мои старания не пропадут даром, твой Dev. друг!
+Hello my young friend, this system was specially designed to help raise funds for travel by a large company, and this tool can also be a good motivator because it can be used to see the progress of all participants in the trip in real time.  I hope my efforts are not in vain, your Dev.  Friend!  .
 .
 
 Installation
